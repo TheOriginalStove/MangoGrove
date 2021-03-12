@@ -1,0 +1,21 @@
+{
+    "name": "mango-grove",
+    "displayName": "mango-grove",
+    "description": "VS code theme inspired by mango trees",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mango Grove",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Mango Grove-color-theme.json"
+            }
+        ]
+    }
+}
