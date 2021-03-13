@@ -8,3 +8,10 @@ Colors chosen for inspiration from photos of fruiting mango trees.
     - Blue: #88cafe
 
 Thrown into a tint and shade generator to get various shades for both dark and light themes.
+
+## Dark Theme
+
+- Green
+    - Primary (darkest): #0d1508
+    - Secondary: #13200C
+    - Tertiary: #274019

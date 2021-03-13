@@ -19,7 +19,7 @@
             {
                 "label": "Mango Grove: Light",
                 "uiTheme": "vs",
-                "path": "./themes/Mango Grove-light-theme.json"
+                "path": "./themes/Mango Grove-light-color-theme.json"
             }
         ]
     }

@@ -1,9 +1,9 @@
 {
 	"name": "Mango Grove",
-	"type": "dark",
+	"type": "vs",
 	"colors": {
-		"activityBarBadge.background": "#0d1508",
-		"activityBarBadge.foreground": "#b3c4a9",
+		"activityBarBadge.background": "#b3c4a9",
+		"activityBarBadge.foreground": "#0d1508",
 		"activityBar.background" :"#0d1508",
 		"activityBar.foreground": "#b3c4a9",
 		"sideBar.dropBackground": "#274019",
@@ -12,7 +12,7 @@
 		"statusBar.background": "#0d1508",
 		"statusBar.foreground": "#b3c4a9",
 
-		"editor.background": "#0d1508",
+		"editor.background": "#b3c4a9",
 		"editor.foreground": "#b3c4a9",
 		"editorLineNumber.activeForeground": "#ff0000",
 		"editorLineNumber.foreground": "#ff0000",
