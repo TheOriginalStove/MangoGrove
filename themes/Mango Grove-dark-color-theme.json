@@ -2,10 +2,20 @@
 	"name": "Mango Grove",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#0d1508",
+		"editor.foreground": "#b3c4a9",
+
+		"activityBarBadge.background": "#0d1508",
+		"activityBarBadge.foreground": "#b3c4a9",
+		"activityBar.background" :"#0d1508",
+		"activityBar.foreground": "#b3c4a9",
+
+		"sideBar.dropBackground": "#274019",
+		"sideBar.background": "#13200C",
+		"sideBarTitle.foreground": "#b3c4a9",
+
+		"statusBar.background": "#0d1508",
+		"statusBar.foreground": "#b3c4a9"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +26,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#b57735"
 			}
 		},
 		{
@@ -26,7 +36,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#7dc4c4"
 			}
 		},
 		{
