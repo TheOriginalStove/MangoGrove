@@ -12,9 +12,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Mango Grove",
+                "label": "Mango Grove: Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Mango Grove-color-theme.json"
+                "path": "./themes/Mango Grove-dark-color-theme.json"
+            },
+            {
+                "label": "Mango Grove: Light",
+                "uiTheme": "vs",
+                "path": "./themes/Mango Grove-light-theme.json"
             }
         ]
     }

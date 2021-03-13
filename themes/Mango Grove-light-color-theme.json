@@ -14,20 +14,17 @@
 
 		"editor.background": "#0d1508",
 		"editor.foreground": "#b3c4a9",
-		"editorLineNumber.activeForeground": "#bd864b",
-		"editorLineNumber.foreground": "#b3c4a9",
+		"editorLineNumber.activeForeground": "#ff0000",
+		"editorLineNumber.foreground": "#ff0000",
+		"editor.inactiveSelectionBackground": "#ff0000",
 		"editorGroup.border": "#ff0000",
 		"editorGroup.dropBackground": "#ff0000",
-		"editorGroupHeader.tabsBackground": "#13200C",
-		"editorGroupHeader.border": "#13200C",
-		"tab.activeBackground": "#0d1508",
-		"tab.activeForeground": "#b3c4a9",
-		"tab.inactiveBackground": "#13200C",
-		"tab.inactiveForeground": "#b3c4a9",
+		"editorGroupHeader.tabsBackground": "#ff0000",
+		"editorGroupHeader.border": "#ff0000",
+		"tab.activeBackground": "#ff0000",
+		"tab.inactiveBackground": "#ff0000",
 		"tab.unfocusedActiveBackground": "#ff0000",
-
-		"menu.foreground": "#b3c4a9",
-		"menu.background": "#13200C",
+		"menu.background": "#818b7b",
 				
 
 		
