@@ -1,13 +1,26 @@
-# README
-## This is the README for your extension "mango-grove"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Base Colors
+Colors chosen for inspiration from photos of fruiting mango trees. Colors were taken from photos of mango groves, new mango tree leaves, and fresh mangos.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+    - Green: #416b29 
+    - Orange: #ad681e
+    - Yellow: #af9629
+    - Red: #cd503e
+    - Blue: #88cafe
+    - Purple: #8d1d44
+    - Copper: #894f3f
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Thrown into a tint and shade generator to get various shades for both dark and light themes.
 
-**Enjoy!**
+# Shades
+
+- Green
+    - Base: 
+    - Darker 80%: #0d1508
+    - Darker 70%: #13200C
+    - Darker 40%: #274019
+    - Darker 20%: 
+    - Tertiary: #274019
+
+| Green |
+| --- | ---:|
+| Shade % | Hex |
